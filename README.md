@@ -1,0 +1,3 @@
+- Added Categories for each location
+- Fixed DLC, Prestige, and Legacy options
+- Added more generic checks and character-specific checks
