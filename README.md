@@ -1,3 +1,3 @@
-- Added Categories for each location
-- Fixed DLC, Prestige, and Legacy options
-- Added more generic checks and character-specific checks
+- This Archipelago was made with ranked in mind but can be played however you like :)
+- Deathlink rules can be decided by the players (I recommend sending one after losing a match)
+- Be careful when selecting characters to win to not have more characters than there are available if you disable too many rosters
